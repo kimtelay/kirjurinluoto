@@ -10,23 +10,19 @@ mainpitch:
     Kirjurinluoto on Porin keskustori, joka toimii niin paikallisten kuin
     turistienkin suosimana virkistysalueena.
 description: >-
-  Pori ja Kirjurinluoto on tunnettu erityisesti kesätaphtumistaan. Pori Jazz,
+  Pori ja Kirjurinluoto on tunnettu erityisesti kesätapahtumistaan. Pori Jazz,
   Porispere ja Suomi Areena ovat näistä tapahtumista tunnetuimmat. 
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/päälava.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Pori Jazz on Porin tapahtumien ykkönen, joka on järjestetty vuodesta
+        1966 alkaen.
+    - image: /img/products-grid2.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Porispere on järjestetty vuodesta 2011. Se järjestetään Kirjurinluodolla
+        sijaitsevalla Lokki-lavalla, joka on entinen Pori Jazz -festarin
+        pääareena.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
