@@ -20,23 +20,18 @@ intro:
         1966 alkaen.
     - image: /img/products-grid2.jpg
       text: >
+        SuomiAreena on kesällä järjestettävä yhteiskunnallinen
+        keskustelutapahtuma. Tapahtumaa on järjestetty vuodesta 2005 alkaen.
+    - image: /img/img_1260.jpg
+      text: >
+        Porin kaupungin uudenvuoden vastaanotto järjestetään maanantaina 31.12.
+        Porin Raatihuoneen edustalla. Vastaanotto alkaa klo 23.35 Porilaisten
+        marssilla.
+    - image: /img/img_1284.jpg
+      text: >
         Porispere on järjestetty vuodesta 2011. Se järjestetään Kirjurinluodolla
         sijaitsevalla Lokki-lavalla, joka on entinen Pori Jazz -festarin
         pääareena.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
   heading: What we offer
   description: Pori ja Kirjurinluoto ovat huippusuosittuja kesäkohteita. Tutustu tarkemmin!
 main:
@@ -53,7 +48,7 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Kirjurinluoto kuva
     image: /img/products-grid1.jpg
 ---
 
