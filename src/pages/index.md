@@ -7,7 +7,7 @@ subheading: Porin tapahtumakeskus
 mainpitch:
   title: KIRJURINLUOTO
   description: >-
-    Kirjurinluoto on Porin keskustori, joka toimii niin paikallisten kuin
+    Kirjurinluoto on Porin keskuspuisto, joka toimii niin paikallisten kuin
     turistienkin suosimana virkistysalueena.
 description: >-
   Pori ja Kirjurinluoto on tunnettu erityisesti kesätapahtumistaan. Pori Jazz,
@@ -41,7 +41,7 @@ main:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: kahvila kirjurinluoto
     image: /img/products-grid2.jpg
   image3:
     alt: Kirjurinluoto kuva
