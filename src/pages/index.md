@@ -18,11 +18,11 @@ intro:
       text: >
         Pori Jazz on Porin tapahtumien ykkönen, joka on järjestetty vuodesta
         1966 alkaen. Vuoden 2020 jazzit järjestetään heinäkuussa.
-    - image: /img/products-grid2.jpg
+    - image: /img/img_1260.jpg
       text: >
         SuomiAreena on kesällä järjestettävä yhteiskunnallinen
         keskustelutapahtuma. Tapahtumaa on järjestetty vuodesta 2005 alkaen.
-    - image: /img/img_1260.jpg
+    - image: /img/pori-kaupungintalo.jpg
       text: >
         Porin kaupungin uudenvuoden vastaanotto järjestetään maanantaina 31.12.
         Porin Raatihuoneen edustalla. Vastaanotto alkaa klo 23.35 Porilaisten
