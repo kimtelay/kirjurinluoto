@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: KIRJURINLUOTO.COM
-image: /img/products-grid1.jpg
+image: /img/pori-kaupungintalo.jpg
 heading: Porin kesäinen tapahtumakeskus
 subheading: Porin tapahtumakeskus
 mainpitch:
@@ -17,7 +17,7 @@ intro:
     - image: /img/päälava.jpg
       text: >
         Pori Jazz on Porin tapahtumien ykkönen, joka on järjestetty vuodesta
-        1966 alkaen.
+        1966 alkaen. Vuoden 2020 jazzit järjestetään heinäkuussa.
     - image: /img/products-grid2.jpg
       text: >
         SuomiAreena on kesällä järjestettävä yhteiskunnallinen
